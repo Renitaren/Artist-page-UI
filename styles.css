@@ -85,6 +85,7 @@ button:hover {
 }
 
 .small-box-left {
+    background: url('art2.jpg');
     flex: 1;
     height: 230px;
     background: #ff8282;

@@ -77,9 +77,10 @@ button:hover {
 }
 
 .small-box-right {
+    background: url('art3.jpg') center/cover no-repeat;
     flex: 1;
     height: 230px;
-    background: #f7ff82;
+  
     border-radius: 15px;
     margin-right: 10px;
 }

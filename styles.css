@@ -85,10 +85,10 @@ button:hover {
 }
 
 .small-box-left {
-    background: url('art2.jpg');
+    background: url('art2.jpg') center/cover no-repeat;
     flex: 1;
     height: 230px;
-    background: #ff8282;
+   
     border-radius: 15px;
     margin-right: 10px;
 }
